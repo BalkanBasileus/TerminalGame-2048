@@ -4,7 +4,7 @@
 *direction to move in. If two same numbers touch, they combine. After   *
 *every move a random '2' is generated. Once the number 16 is reached the*
 *player is victorious and it terminates. If all the tiles fill up and 16*
-*isn't reached, and nothing can be combined, the player loses.					*
+*isn't reached, and nothing can be combined, the player loses.		
 *																																				*
 *************************************************************************/
 #include <iostream>
