@@ -18,7 +18,7 @@ sixteen::sixteen()
 	board[2][0] = 2;
 	srand(time(NULL));
 
-//Test for Loss. Provided by Prof. Vasko.
+//Test for Loss. Provided by Professor
 /*
 board[0][0] = 2;
 board[0][1] = 4;
