@@ -1,2 +1,6 @@
 # TerminalGame-2048
-A simpler version of the popular game 2048 in C++. Runs in Terminal. First year programming assignment for beginners.
+**Description**
+
+A simpler version of the popular game 2048 written in C++. \
+First year programming assignment for beginners.
+Game runs in Terminal. 
